@@ -1,0 +1,284 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "admin",
+      "password": "admin",
+      "email": "admin@gmail.com",
+      "role": "admin"
+    },
+    {
+      "id": 2,
+      "username": "RC",
+      "password": "caesar",
+      "email": "rocky.christ01@gmail.com",
+      "role": "admin"
+    },
+    {
+      "id": 3,
+      "username": "lian",
+      "password": "123",
+      "email": "lianeddy@gmail.com",
+      "role": "user"
+    }
+  ],
+  "studios": [
+    {
+      "id": 1,
+      "nama": "Studio 1",
+      "jumlahKursi": 100
+    },
+    {
+      "id": 2,
+      "nama": "Studio 2",
+      "jumlahKursi": 100
+    },
+    {
+      "id": 3,
+      "nama": "Studio 3",
+      "jumlahKursi": 100
+    }
+  ],
+  "movies": [
+    {
+      "id": 1,
+      "name": "Star Wars: The Rise of Skywalker",
+      "genre": [
+        "Action",
+        "Fantasy"
+      ],
+      "director": "J.J. Abrams",
+      "duration": "155",
+      "synopsis": "Satu tahun setelah event di STAR WARS: THE LAST JEDI, kelompok The Resistence yang dipimpin oleh Princess Leia masih harus menghadapi First Order. Dengan segelintir orang yang tersisa, Leia pun mengirim sinyal untuk meminta bantuan ke seluruh penjuru galaksi.",
+      "casts": [
+        "Adam Driver",
+        "Daisy Ridley",
+        "Billie Lourd"
+      ],
+      "image": "https://media.21cineplex.com/webcontent/gallery/pictures/157416306567553_287x421.jpg",
+      "produksi": "Walt Disney Pictures",
+      "trailer": "https://www.youtube.com/embed/8Qn_spdM5Zg",
+      "studioID": "1",
+      "jadwal": [
+        14,
+        16
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Frozen II",
+      "genre": [
+        "Animation",
+        "Adventure"
+      ],
+      "director": "Chris Buck",
+      "duration": "103",
+      "synopsis": "Anna, Elsa, Kristoff, Olaf dan Sven pergi meninggalkan Arendelle untuk melakukan perjalanan ke sebuah tempat asing dan penuh keajaiban. Mereka berangkat untuk menemukan asal usul kekuatan Elsa dan juga untuk menyelamatkan kerajaan mereka.",
+      "casts": [
+        "Kristen Bell",
+        "Idina Menzel",
+        "Jonathan Groff"
+      ],
+      "image": "https://media.21cineplex.com/webcontent/gallery/pictures/157250534676979_287x421.jpg",
+      "produksi": "Walt Disney Pictures",
+      "trailer": "https://www.youtube.com/embed/Zi4LMpSDccc",
+      "studioID": "1",
+      "jadwal": [
+        12,
+        18
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Jumanji: The Next Level",
+      "genre": [
+        "Action",
+        "Adventure"
+      ],
+      "director": "Jack Kasdan",
+      "duration": "123",
+      "synopsis": "Dwayne Johnson, Karen Gillan, Jack Black dan Kevin Hart kembali ke Jumanji, keempatnya harus menyelamatkan salah satu teman mereka. Namun permainan telah berubah. Para pemain kini harus lebih berani melintasi rintangan ekstrem dan kembali dengan selamat dari permainan paling berbahaya di dunia.",
+      "casts": [
+        "Dwayne Johnson",
+        "Karen Gilian",
+        "Jack Black"
+      ],
+      "image": "https://media.21cineplex.com/webcontent/gallery/pictures/157422945871583_287x421.jpg",
+      "produksi": "Columbia Pictures",
+      "trailer": "https://www.youtube.com/embed/rBxcF-r9Ibs",
+      "studioID": "1",
+      "jadwal": [
+        12,
+        18
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Ford v Ferrari",
+      "genre": [
+        "Action",
+        "Fiction"
+      ],
+      "director": "James Mangold",
+      "duration": "152",
+      "synopsis": "FORD v FERRARI, berdasarkan kisah nyata yang luar biasa dari Carroll Shelby (Damon), seorang perancang mobil visioner dari Amerika bersama Ken Miles (Bale), seorang pembalap Inggris yang tak kenal takut. Mereka bersama-sama berjuang menghadapi campur tangan perusahaan, hukum fisika, dan masalah pribadi mereka sendiri ketika membangun mobil balap revolusioner bagi Ford Motor Company untuk menantang mobil balap buatan Enzo Ferrari yang mendomniasi 24 Jam Le Mans di Perancis pada tahun 1966.",
+      "casts": [
+        "Matt Damon",
+        "Christian Bale",
+        "Jon Bernthal"
+      ],
+      "image": "https://media.21cineplex.com/webcontent/gallery/pictures/1572858859730_287x421.jpg",
+      "produksi": "20th Century Fox",
+      "trailer": "https://www.youtube.com/embed/I3h9Z89U9ZA",
+      "studioID": "1",
+      "jadwal": [
+        16,
+        20
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Hotel Del Luna",
+      "genre": [
+        "Fantasy",
+        "Romance"
+      ],
+      "director": "Oh Choong-Hwan",
+      "duration": "102",
+      "synopsis": "Hotel Del Luna merupakan hotel yang telah lama berdiri dengan penampilan luar yang kuno dan terletak di pusat kota Seoul. Hotel ini kabarnya menjadi tempat tinggal para hantu.",
+      "casts": [
+        "Lee Ji-Eun",
+        "Yeo Jin-Goo",
+        "Cho Hyun-Chul",
+        "Park Yoo-Na",
+        "Shin Jung-Keun",
+        "Bae Hae-Sun"
+      ],
+      "image": "http://asianwiki.com/images/4/4c/Hotel_Del_Luna-GP.jpg",
+      "trailer": "https://www.youtube.com/embed/ys5pPdqKDLs",
+      "studioID": "1",
+      "jadwal": [
+        16,
+        20
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Detective K: Secret of the Bloodsucking Demon",
+      "genre": [
+        "Adventure",
+        "Comedy"
+      ],
+      "director": "Kim Suk-Yoon",
+      "synopsis": "Detektif Kim Min dan Seo-pil bekerja sama dengan seorang wanita cantik yang menderita amnesia dan mereka menemukan bekas gigitan vampir pada tubuh mayat. Mereka lalu menyadari bahwa wanita itu entah bagaimana terkait erat dengan kematian tersebut.",
+      "casts": [
+        "Kim Myung-Min",
+        "Oh Dal-Su",
+        "Kim Ji-Won",
+        "Lee Min-Ki",
+        "Kim Beom"
+      ],
+      "image": "http://asianwiki.com/images/6/61/Detective_K-_Secret_of_the_Living_Dead-p01.jpg",
+      "trailer": "https://www.youtube.com/embed/6N7trw1_ZWs",
+      "studioID": "1",
+      "jadwal": [
+        14,
+        20
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Rumah Kentang: The Beginning",
+      "genre": [
+        "Horror",
+        "Fiction"
+      ],
+      "director": "Rizal Mantovani",
+      "duration": "102",
+      "synopsis": "Gosip beredar bahwa rumah ibunya Farah dan Rika adalah Rumah Kentang, rumah yang penghuninya hantu anak kecil. Karena tidak ada pilihan lain, mereka berdua terpaksa pindah ke rumah ibunya yang ternyata telah menjadi Rumah Kentang.",
+      "casts": [
+        "Luna Maya",
+        "Christian Sugiono",
+        "Jajang C. Noer"
+      ],
+      "image": "https://media.21cineplex.com/webcontent/gallery/pictures/157129577038373_287x421.jpg",
+      "produksi": "Hitmaker Studios",
+      "trailer": "https://www.youtube.com/embed/GlF3cMCh2mk",
+      "studioID": "1",
+      "jadwal": [
+        18,
+        20
+      ]
+    },
+    {
+      "id": 8,
+      "name": "Habibie & Ainun 3",
+      "genre": [
+        "Drama",
+        "Romance"
+      ],
+      "director": "Hanung Bramantyo",
+      "duration": "121",
+      "synopsis": "Kisah Ainun (Maudy Ayunda) sebagaimana remaja di usianya ,punya kisah kasih yang cukup unik, menggelitik dan menarik. Saat di SMA, Ainun dikenal sebagai sosok cerdas yang menjadi pujaan di sekolahnya dan menjadi incaran banyak siswa laki-laki, termasuk Habibie.",
+      "casts": [
+        "Maudy Ayunda",
+        "Jefri Nichol",
+        "Reza Rahadian"
+      ],
+      "image": "https://media.21cineplex.com/webcontent/gallery/pictures/157466395513352_287x421.jpg",
+      "produksi": "MD Pictures",
+      "trailer": "https://www.youtube.com/embed/CIP0esJ6MMs",
+      "studioID": "1",
+      "jadwal": [
+        12,
+        16,
+        20
+      ]
+    },
+    {
+      "id": 9,
+      "name": "The Battleship Island (군함도)",
+      "genre": [
+        "Action",
+        "History"
+      ],
+      "director": "Ryoo Seung-Wan",
+      "duration": "115",
+      "synopsis": "Kisah tentang masa akhir Perang Dunia II saat Korea masih jadi area jajahan Jepang. 400 warga Korea dipaksa bekerja di sebuah pertambangan di Pulau Hashima yang lokasinya dekat dengan Nagasaki, Jepang. Para pria bekerja di tambang, sementara yang wanita jadi penghibur atau pekerja rumah tangga.",
+      "casts": [
+        "Hwang Jung-Min",
+        "So Ji-Sub",
+        "Song Joong-Ki",
+        "Lee Jung-Hyun",
+        "Kim Soo-Ahn",
+        "Kim In-Woo"
+      ],
+      "image": "http://asianwiki.com/images/9/9c/The_Battleship_Island-p1.jpg",
+      "trailer": "https://www.youtube.com/embed/FB9WuIX-JNI",
+      "studioID": "1",
+      "jadwal": [
+        16,
+        20
+      ]
+    }
+  ],
+  "orders": [
+    {
+      "movieId": 1,
+      "totalharga": 35000,
+      "jadwal": 14,
+      "bayar": false,
+      "id": 1
+    }
+  ],
+  "ordersDetails": [
+    {
+      "orderId": 1,
+      "seat": 7,
+      "row": 0,
+      "id": 1
+    }
+  ],
+  "transactions": [],
+  "transactionsDetails": []
+}
